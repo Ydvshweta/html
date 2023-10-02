@@ -1,0 +1,34 @@
+/* selectors */
+
+/* p{
+    color:blueviolet;
+} */
+/* 
+h1{
+    color: black;
+}
+
+.test{
+     color: aliceblue;
+    
+}
+#test{
+    color: aquamarine;
+} */
+
+.test{
+    font-size: 2rem;
+    background-color: yellow;
+    font-family: cursive;
+    font-weight: 900;
+    font-style: italic;
+   border: 10px dotted gray;
+  text-align: center;
+   margin-top: 40px;
+   padding-top: 10px;
+   margin-left: 15px;
+   color: black;
+}
+.abc{
+    background-color: gray;
+}

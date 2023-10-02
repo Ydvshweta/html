@@ -1,0 +1,40 @@
+body{
+    background-color: #F5D6B4;
+}
+.box{
+    height: 50px;
+    width: 50px;
+    background-color: #D86F45;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+.box1{
+    height: 50px;
+    width: 200px;
+    background-color:#D86F45;
+    margin-left: 230px;
+  
+}
+
+.box2{
+    height: 50px;
+    width: 400px;
+    background-color:#D86F45;
+    margin-left: 140px;
+
+}
+.box3{
+    height: 50px;
+    width: 200px;
+    background-color:#D86F45;
+    margin-left: 230px;
+
+}
+.box4{
+    height: 50px;
+    width: 50px;
+    background-color:#D86F45;
+    margin-left: 300px;
+    margin-top: 0px;
+}

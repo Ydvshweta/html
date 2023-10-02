@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@700&display=swap');
+body {
+     background-color: black;
+/* background-color: rgba(rgb(137, 37, 37), green, blue, alpha); */
+/* background-color: hsl(38, 52%, 72%); */
+background-image: url("https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg");
+
+background-repeat: no-repeat;
+background-position: center top;
+} 
+.a{
+    background-color:black;
+     width: 200px;
+     height: 50px;
+     background-size: cover;
+     /* position: relative; */
+     color: antiquewhite;
+     padding-left: 20px;
+     margin-top: 90px;
+     position: sticky;
+     font-family: 'Qwitcher Grypen', cursive;
+     box-shadow: -webkit-box-shadow: 24px -13px 34px 6px rgba(0,0,0,0.75);
+     -moz-box-shadow: 24px -13px 34px 6px rgba(0,0,0,0.75);
+     box-shadow: 24px -13px 34px 6px rgba(0,0,0,0.75);
+       
+     /* float: right; */
+     
+ }
+ 
+
+ 
+ .b{
+    position: absolute;
+    background-color: aliceblue;
+ }
+ .box{
+    border: 2px solid  gray;
+    height: 60px;
+    width: 900px;
+    margin: 50px;
+    color: white;
+
+ }
